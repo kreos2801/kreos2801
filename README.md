@@ -1,16 +1,28 @@
-## Hi there 👋
+# Yann Gaouditz 👋
 
-<!--
-**kreos2801/kreos2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 **Third-year student at ESIEA Ouest**  
+🔐 Passionate about **cybersecurity**, actively pursuing certifications in the field.  
+🧩 Engaged in **CTF challenges** on platforms like [TryHackMe](https://tryhackme.com/) and [RootMe](https://www.root-me.org/).  
+🔎 Always eager to **learn and acquire new skills**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Technical Skills
+
+- 💻 **Programming Languages**: Python, C, Java, PHP, HTML/CSS, JavaScript  
+- 🛡️ **Cybersecurity**: CTF challenges, vulnerability analysis, pentesting  
+- 🌐 **Web Technologies**: HTML, CSS, Bootstrap, React, PHP, MySQL  
+- 🧠 **Tools**: TryHackMe, RootMe, Burp Suite, Wireshark  
+- 🌏 **Languages**: French (native), English (advanced)  
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Yann Gaouditz]([https://www.linkedin.com/in/yann-gaouditz/](https://www.linkedin.com/in/yann-gaouditz-48596b230/))  
+
+---
+
+## 🛠️ GitHub Stats
+
+![Yann Gaouditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yann-gaouditz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
