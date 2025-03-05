@@ -22,7 +22,3 @@
 - **LinkedIn**: [Yann Gaouditz]([https://www.linkedin.com/in/yann-gaouditz/](https://www.linkedin.com/in/yann-gaouditz-48596b230/))  
 
 ---
-
-## 🛠️ GitHub Stats
-
-![Yann Gaouditz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yann-gaouditz&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
